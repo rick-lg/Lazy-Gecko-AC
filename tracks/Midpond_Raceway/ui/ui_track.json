@@ -1,0 +1,12 @@
+{
+	"name":"Midpond_Raceway",
+	"description": "short tandem track",
+	"tags" : ["Drift"],
+	"geotags": ["lat", "lon"],
+	"country": "Imagination Land",
+	"city": "",
+	"length": "",
+	"width": "",
+	"pitboxes": "20",
+	"run": ""
+}
