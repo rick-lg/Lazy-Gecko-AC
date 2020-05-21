@@ -1,0 +1,9 @@
+The base texture files are in the texture folder.  To make a new skin create a new folder in the skins folder.  Copy the texture files you want to change to this folder (usually car_body.dds or body.dds).
+
+The .dds files can be editted in GIMP or Photoshop. Once done, export as a .dds and select DXT5 compression in the .dds export settings.
+
+Also, the 3D model is include in the skins folder (.fbx file) to enable painting in Autodesk Mudbox, Blender, or other 3D program. If using this option, export the new texture file to gimp and save as a .dds (same as above). This model is usually just the surfaces in the Main Body(i.e. car_body.dds).
+
+
+
+To use a skin online, it will need to be distributed to all users.  Be sure to provide a link either on discord or through the content submission form (assuming I complete that)
