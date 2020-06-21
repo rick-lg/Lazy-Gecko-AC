@@ -1,0 +1,78 @@
+{
+  "name": "PRS Box Stage 1",
+  "parent": "prs_box",
+  "brand": "Lazy Gecko",
+  "class": "race",
+  "country": "Michigan",
+  "description": "Steal a kids toy from their driveway and convert it into a silly race car for under $500",
+  "tags": [
+    "rwd",
+    "toy",
+    "lazygecko",
+    "powerwheels racing"
+  ],
+  "torqueCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1000.0,
+      7.0
+    ],
+    [
+      8000.0,
+      11.0
+    ],
+    [
+      12000.0,
+      8.0
+    ],
+    [
+      13200.0,
+      4.0
+    ],
+    [
+      14000.0,
+      0.0
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1000.0,
+      1.0
+    ],
+    [
+      8000.0,
+      11.0
+    ],
+    [
+      12000.0,
+      13.0
+    ],
+    [
+      13200.0,
+      7.0
+    ],
+    [
+      14000.0,
+      0.0
+    ]
+  ],
+  "specs": {
+    "bhp": "a few",
+    "torque": "5 Nm*",
+    "weight": "15kg",
+    "topspeed": "~10km/h",
+    "acceleration": "-",
+    "pwratio": "-"
+  },
+  "year": 2020,
+  "author": "Rick",
+  "url": "LazyGecko.com",
+  "version": "1"
+}

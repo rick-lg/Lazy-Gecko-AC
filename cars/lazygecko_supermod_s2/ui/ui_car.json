@@ -1,5 +1,6 @@
 {
   "name": "Lazy Gecko Toy Car Stage II",
+  "parent": "lazygecko_supermod",
   "brand": "Lazy Gecko",
   "class": "race",
   "country": "Michigan",
