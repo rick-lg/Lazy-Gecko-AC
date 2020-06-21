@@ -1,0 +1,22 @@
+{
+  "name": "PRS Detroit",
+  "description": "",
+  "tags": [
+    "PRS",
+    "circuit"
+  ],
+  "geotags": [
+    "lat",
+    "lon"
+  ],
+  "country": "USA",
+  "city": "Detroit",
+  "length": null,
+  "width": null,
+  "pitboxes": "32",
+  "run": "",
+  "year": 2020,
+  "author": "Scott",
+  "version": null,
+  "url": null
+}
