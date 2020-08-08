@@ -1,0 +1,22 @@
+{
+  "name": "PRS Bay Area",
+  "description": "",
+  "tags": [
+    "PRS",
+    "circuit"
+  ],
+  "geotags": [
+    "lat",
+    "lon"
+  ],
+  "country": "USA",
+  "city": "San Mateo, CA",
+  "length": null,
+  "width": null,
+  "pitboxes": "32",
+  "run": "",
+  "year": 2020,
+  "author": "Scott",
+  "version": null,
+  "url": null
+}
